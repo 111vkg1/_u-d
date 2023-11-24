@@ -3,8 +3,8 @@ _u-dendbyt is file manager program.
 
 For questions please contact to:
   Discord:
-    https:/discord.com/users/896483616819933186/
+    https://discord.com//users//896483616819933186//
   Discord server:
-    https://discord.gg/EQRap3pbPr
+    https://discord.gg//EQRap3pbPr
   Telegram:
-    t.me/udendbyt
+    t.me//udendbyt
